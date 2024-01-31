@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently exploring Full-Stack Developpent<br>- 🌱 I’m currently learning DevOps<br>- 💼 I’m looking for internships & opportunities!
+- 🔭 I’m currently exploring Machine Learning<br> - 🌱 I’m currently learning Full-Stack Developpen<br> - 💼 I’m looking for internships & opportunities!
 
 
 ## 🌐 Socials:
